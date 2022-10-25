@@ -9,8 +9,6 @@ import Home from "../src/components/Home/Home"
 import Footer from "../src/components/Footer/Footer"
 import Projects from "../src/components/Projects/Projects"
 import About from "../src/components/About/About"
-import "./style.css";
-
 
 function App() {
   return (
